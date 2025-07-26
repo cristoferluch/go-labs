@@ -1,0 +1,12 @@
+# Dependency
+/vendor/
+/go.sum
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+.env
+/tmp/
+*.local
